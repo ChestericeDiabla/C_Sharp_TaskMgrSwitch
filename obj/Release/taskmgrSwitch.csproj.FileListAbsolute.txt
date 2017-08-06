@@ -1,0 +1,8 @@
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\bin\Release\taskmgrSwitch.exe.config
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Release\taskmgrSwitch.Form1.resources
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Release\TaskMgrSwitch.Properties.Resources.resources
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Release\taskmgrSwitch.csproj.GenerateResource.Cache
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\bin\Release\TaskMgrSwitch.exe
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\bin\Release\TaskMgrSwitch.pdb
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Release\TaskMgrSwitch.exe
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Release\TaskMgrSwitch.pdb

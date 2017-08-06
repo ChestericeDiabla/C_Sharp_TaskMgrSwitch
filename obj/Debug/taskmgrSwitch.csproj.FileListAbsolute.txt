@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\bin\Debug\taskmgrSwitch.exe.config
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.Form1.resources
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.Properties.Resources.resources
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\bin\Debug\taskmgrSwitch.exe
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\bin\Debug\taskmgrSwitch.pdb
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.exe
+C:\Users\user\Desktop\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.pdb
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\bin\Debug\taskmgrSwitch.exe.config
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.exe
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.pdb
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\bin\Debug\taskmgrSwitch.exe
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\bin\Debug\taskmgrSwitch.pdb
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.csprojResolveAssemblyReference.cache
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.Form1.resources
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.Properties.Resources.resources
+X:\Desktop\Visual Project\Play\taskmgrSwitch\taskmgrSwitch\obj\Debug\taskmgrSwitch.csproj.GenerateResource.Cache
